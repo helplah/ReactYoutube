@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/helplah/ReactYoutube.svg)](https://greenkeeper.io/)
+
 This is a part of Udemy [Modern React with Redux](https://www.udemy.com/react-redux/) Lesson 1 - 33, featuring a completed version of Youtube made entirely of React. 
 
 The [boilerplate](https://github.com/helplah/ReduxSimpleStarter) contains a starting template. I'm going to do it to further and deepen my knowledge of React as part of learning through building. 
