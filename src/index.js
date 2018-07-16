@@ -5,7 +5,7 @@ import YTSearch from "youtube-api-search";
 import SearchBar from "./components/search_bar";
 import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
-const API_KEY = /* insert your youtube api key */;
+const API_KEY = /* insert your youtube api key */
 
 // Create a new component. This component should produce some HTML.
 class App extends React.Component {

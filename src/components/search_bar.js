@@ -25,11 +25,4 @@ class SearchBar extends Component {
     }
 }
 
-/*
-functional component
-const SearchBar = () => {
-    return <input />;
-}
-*/
-
 export default SearchBar;
